@@ -13,7 +13,7 @@
     </head>
 
     <body>
-        <div class="container" style="background-color:green">
+        <div class="container" style="background-color:pink">
             <div class="hero-unit">
                 <h1>Simple PHP App</h1>
                 <h2>Congratulations</h2>
